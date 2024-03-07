@@ -39,6 +39,7 @@ chmod +x *.sh
 ```
 Reboot the sBitx when finished and start using the toolbox.
 
+Or see the instruction guide for installation steps.
 -----
 
 Instruction Guide

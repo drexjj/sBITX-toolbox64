@@ -1,0 +1,8 @@
+sBITX Toolbox:
+Version 1.7 - Added Macro Manager, Additional scripts to improve functionality, added icons to some apps.
+Version 1.6 - This is two major updates rolled into one, hence no v1.5. Added more functionality to sBITX Editor, Added a Time Sync app, Modified some settings in sBITX Manager to follow a numbering scheme, created and added a fix for telnet, and added troubleshooting steps in the guide. Fixed versioning to be more consistent.
+Version 1.4 - Added custom app option to the launcher and other improvements. Added additional commands to  sBITX Manager, removed compression command since it does not work on v3.x
+Version 1.3 - Removed logbook option due to compatibility issues with newer sbix versions
+Version 1.2 - Removed onscreen keyboard for sBITX Scanner (needs more refinement)
+Version 1.1 - Added an onscreen keyboard for sBITX Scanner
+Version 1.0 - Initial release

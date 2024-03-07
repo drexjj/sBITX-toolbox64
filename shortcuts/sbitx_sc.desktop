@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=sBITX Screen Resizer
+Exec=/home/pi/sBITX-toolbox/sBITX-ScreenControl/sb_sr
+Icon=/home/pi/sBITX-toolbox/sBITX-ScreenControl/boxes.png
+Categories=Utility;

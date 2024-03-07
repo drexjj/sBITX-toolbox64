@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=sBITX Backlight Control
+Exec=/home/pi/sBITX-toolbox/sBITX-Backlight/sb_bc
+Icon=/usr/share/icons/HighContrast/256x256/status/display-brightness.png
+Categories=Utility;
+Path=/home/pi/sBITX-toolbox/sBITX-Backlight/

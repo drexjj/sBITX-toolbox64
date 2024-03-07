@@ -15,8 +15,7 @@ What does sBITX Toolbox offer?
 - sBITX Scanner: An application that scans frequency ranges aiding in finding activity.
 - sBITX Screen Resizer: A touchscreen application to change the default window size for better scrolling such as using WSJT-X and fldigi natively on the transceiver.
 - sBITX Backlight Control: A touchscreen application to control the screen brightness for power conservation and eye comfort.
-- sBITX EZ Tools: Applications to manage version upgrades/downgrades, configuration backups, and more.
-- sBITX Time Sync: An application to easily check your system time and adjust it from the press of a button. Useful for digital modes.
+- sBITX EZ Data: Application to manage configuration backups.
 - sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
 

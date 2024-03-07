@@ -3,15 +3,13 @@
 # Set the download directory
 old_directory="/home/pi/sBITX-toolbox64"
 
+# Set the working directory
+working_directory="/home/pi/sBITX-toolbox"
+
 # Start install
 if [ -d "$old_directory" ]; then
     mv "$old_directory" "$working_directory"
 fi
-
-# Set the working directory
-working_directory="/home/pi/sBITX-toolbox"
-
-mv "$old_directory" "$working_directory"
 
 # Check for python3-tk and install if not present
 if ! dpkg -l | grep -qw python3-tk; then

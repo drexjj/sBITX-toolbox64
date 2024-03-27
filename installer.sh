@@ -18,6 +18,13 @@ if ! dpkg -l | grep -qw python3-tk; then
     sudo apt-get install -y python3-tk
 fi
 
+# Check for sox and install if not present
+if ! dpkg -l | grep -qw sox; then
+    echo "Installing sox..."
+    sudo apt-get update
+    sudo apt-get install -y sox
+fi
+
 # Change directory
 cd "$working_directory"
 

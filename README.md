@@ -18,7 +18,7 @@ What does sBITX Toolbox offer?
 - sBITX EZ Data: Application to manage configuration backups.
 - sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
-- sBITX USB Headset Controller: An application that allow you to use USB audio devices like a headset, headphones, or microphone.
+- sBITX USB Headset Controller: An application that allows you to use USB audio devices like a headset, headphones, or microphone.
 
 **Please note that this version of sBITX-toolbox is currently compiled as a 64bit application. We offer a 32bit version [HERE](https://github.com/drexjj/sBITX-toolbox).**
 

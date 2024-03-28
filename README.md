@@ -52,3 +52,13 @@ Release Notes are available at [Release Notes](https://github.com/drexjj/sBITX-t
 
 -----
 
+Become A Supporter
+-----
+If you find sBITX Toolbox valuable or have benefited from using it, consider supporting us. Every donation, big or small, helps us keep the lights on and the code flowing.
+
+🌟 [Donate](https://www.paypal.com/donate/?hosted_button_id=SWPB76LVNUHEY) 🌟
+
+
+Not in a position to donate? No worries! Contributing code, documentation, or simply spreading the word about sBITX Toolbox also goes a long way.
+
+Thank you for your support and belief in my project!

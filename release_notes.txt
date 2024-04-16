@@ -1,3 +1,4 @@
 sBITX Toolbox:
+Version 2.3 - Added Voice keyer app.
 Version 2.2 - Added USB Headset App and update checker function.
-Version 2.1 - Created and converted sBitx toolbox for 64bit sBitx
+Version 2.1 - Created and converted sBitx toolbox for 64bit sBitx.

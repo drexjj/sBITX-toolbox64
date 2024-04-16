@@ -19,6 +19,7 @@ What does sBITX Toolbox offer?
 - sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
 - sBITX USB Headset Controller: An application that allows you to use USB audio devices like a headset, headphones, or microphone.
+- sBITX Voice Keyer: An application that allows you to record, store, and transmit prerecorded voice messages commonly used in contests, DXing, POTA activations, and more.
 
 **Please note that this version of sBITX-toolbox is currently compiled as a 64bit application. We offer a 32bit version [HERE](https://github.com/drexjj/sBITX-toolbox).**
 
@@ -46,7 +47,7 @@ Or see the instruction guide for installation steps.
 Instruction Guide
 -----
 
-The detailed instruction guide is now in PDF format and is located at [Instruction Guide](https://github.com/drexjj/sBITX-toolbox64/blob/main/sBITX%20Toolbox%20Guide%20%20v2.2_64.pdf)
+The detailed instruction guide is now in PDF format and is located at [Instruction Guide](https://github.com/drexjj/sBITX-toolbox64/blob/main/sBITX%20Toolbox%20Guide%20%20v2.3_64.pdf)
 
 Release Notes are available at [Release Notes](https://github.com/drexjj/sBITX-toolbox64/blob/main/release_notes.txt)
 

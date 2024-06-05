@@ -33,11 +33,7 @@ Install on you 64bit sBITX:
 Open terminal and type:
 
 ```console
-cd $HOME
-git clone https://github.com/drexjj/sBITX-toolbox64.git
-cd sBITX-toolbox64
-chmod +x *.sh
-./installer.sh
+cd $HOME && git clone https://github.com/drexjj/sBITX-toolbox64.git && cd sBITX-toolbox64 && chmod +x *.sh && ./installer.sh
 ```
 Reboot the sBitx when finished and start using the toolbox.
 

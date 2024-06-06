@@ -1,4 +1,5 @@
 sBITX Toolbox:
+Version 2.4 - Corrected log exporter function to add a leading 0 where necessary. Added web folder backup to EZData. Added a RTC Time Keeper utility.
 Version 2.3 - Added Voice keyer app.
 Version 2.2 - Added USB Headset App and update checker function.
 Version 2.1 - Created and converted sBitx toolbox for 64bit sBitx.

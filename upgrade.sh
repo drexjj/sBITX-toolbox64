@@ -19,8 +19,7 @@ cd "$working_directory/scripts"
 # Update the menu
 sudo update-desktop-database
 
-# Open Toolbox
-cd "$working_directory"
-./sb_launcher
-
 echo "sBITX-Launcher upgrade completed successfully! The applications have been added to the Pi Menu"
+
+# reboot
+sudo reboot

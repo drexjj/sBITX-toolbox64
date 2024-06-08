@@ -31,6 +31,13 @@ cd "$working_directory"
 # Give execute permissions
 chmod +x ./*.sh ./sb_launcher ./apps/* ./scripts/*
 
+# Remove fake hw clock and setup RTC
+cd "$working_directory/scripts"
+./rtc_enable.sh
+
+# Change directory
+cd "$working_directory"
+
 # Create a desktop menu shortcut
 echo -e "[Desktop Entry]\nName=sBITX Apps\nExec=sh -c 'cd $working_directory && ./sb_launcher'\nType=Application\nIcon=/home/pi/sBITX-toolbox/icons/toolbox_icon.png\n" | sudo tee /usr/share/applications/sb_launcher.desktop > /dev/null
 echo -e "[Desktop Entry]\nName=sBITX Apps\nExec=sh -c 'cd $working_directory && ./sb_launcher'\nType=Application\nIcon=/home/pi/sBITX-toolbox/icons/toolbox_icon.png\n" | sudo tee /home/pi/Desktop/sb_launcher.desktop > /dev/null

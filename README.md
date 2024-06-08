@@ -46,7 +46,7 @@ Or see the instruction guide for installation steps.
 Upgrade
 -----
 
-If you encounter problems upgrading to v2.4, then please run this command from terminal.
+If you encounter problems upgrading to v2.6, then please run this command from terminal.
 
 
 ```console

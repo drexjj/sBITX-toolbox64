@@ -52,7 +52,7 @@ If you encounter problems upgrading to v2.4, then please run this command from t
 ```console
 cd $HOME && cd sBITX-toolbox && git reset && chmod +x *.sh && ./installer.sh
 ```
-Reboot the sBitx when finished and start using the toolbox.
+Now run sBitx Toolbox and use the Update --> Check For Updates function again.
 
 
 

@@ -50,7 +50,7 @@ If you encounter problems upgrading to v2.6, then please run this command from t
 
 
 ```console
-cd $HOME/sBITX-toolbox && git reset && ./installer.sh
+cd $HOME && cd sBITX-toolbox && git stash && git pull && chmod +x *.sh && ./upgrade.sh
 ```
 Now run sBitx Toolbox and use the Update --> Check For Updates function again.
 

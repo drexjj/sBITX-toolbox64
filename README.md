@@ -43,6 +43,19 @@ Reboot the sBitx when finished and start using the toolbox.
 
 Or see the instruction guide for installation steps.
 
+Upgrade
+-----
+
+If you encounter problems upgrading to v2.4, then please run this command from terminal.
+
+
+```console
+cd $HOME && cd sBITX-toolbox && git reset && chmod +x *.sh && ./installer.sh
+```
+Reboot the sBitx when finished and start using the toolbox.
+
+Or see the instruction guide for installation steps.
+
 
 Instruction Guide
 -----

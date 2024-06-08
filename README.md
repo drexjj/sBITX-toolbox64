@@ -54,7 +54,6 @@ cd $HOME && cd sBITX-toolbox && git reset && chmod +x *.sh && ./installer.sh
 ```
 Reboot the sBitx when finished and start using the toolbox.
 
-Or see the instruction guide for installation steps.
 
 
 Instruction Guide

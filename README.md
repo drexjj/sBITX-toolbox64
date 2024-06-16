@@ -25,7 +25,7 @@ contests, DXing, POTA activations.etc with the press of a button.
 accurate time source. Useful for off-network communications and data modes.
 
 
-**Please note that this version of sBITX-toolbox is currently compiled as a 64bit application AND WILL NOT WORK ON THE DEFAULT sBitx as shipped from the manufacturer. We offer a 32bit version for the orignal as-shipped version [https://github.com/drexjj/sBITX-toolbox](https://github.com/drexjj/sBITX-toolbox).**
+**Please note that this version of sBITX-toolbox is currently compiled as a 64bit application AND WILL NOT WORK ON THE DEFAULT sBitx as shipped from the manufacturer. We offer a 32bit version for the original as-shipped version [https://github.com/drexjj/sBITX-toolbox](https://github.com/drexjj/sBITX-toolbox).**
 
 -----
 

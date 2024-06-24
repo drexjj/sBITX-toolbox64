@@ -1,4 +1,5 @@
 sBITX Toolbox:
+Version 2.7 - Changed USB headset app to be more efficient, smaller, and less delay. Added option to Voice Keyer to record via USB headet. Removed old NTP sync app.
 Version 2.6 - Changed update process for future updates.
 Version 2.5 - Corrected error for voice keyer app in launcher.
 Version 2.4 - Corrected log exporter function to add a leading 0 where necessary. Added web folder backup to EZData. Added a RTC Time Keeper utility.

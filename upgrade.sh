@@ -22,4 +22,4 @@ sudo update-desktop-database
 echo "sBITX-Launcher upgrade completed successfully! The applications have been added to the Pi Menu"
 
 # reboot
-sudo reboot
+#sudo reboot

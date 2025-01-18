@@ -14,6 +14,7 @@ What does sBITX Toolbox offer?
 - sBITX Backlight Control: A touchscreen application to control the screen brightness for power conservation and eye comfort.
 - sBITX EZ Data: Application to manage configuration backups.
 - sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
+- V3PowerCal: An application to adjust your power settings per band.
 - sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Manager: An application that can be used to store/recall frequency memories and provide auxiliary control of the transceiver.
 - sBITX Scanner: An application that scans frequency ranges aiding in finding activity.

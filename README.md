@@ -18,9 +18,11 @@ What does sBITX Toolbox offer?
 - sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
 - sBITX Manager: An application that can be used to store/recall frequency memories and provide auxiliary control of the transceiver.
 - sBITX Scanner: An application that scans frequency ranges aiding in finding activity.
+- sBITX Screen Resizer: A touchscreen application to change the default window size for better scrolling such as using WSJT-X and fldigi natively on the transceiver.
 - sBITX Screen Scaler: A handy tool for adjusting screen resolution, allowing apps with larger GUI windows to fit entirely on the built-in display.
 - sBITX Time Keeper: A utility that syncs the real-time clock (RTC) module inside your sBitx transceiver to the system clock or accurate time source. Useful for off-network communications and data modes.
 - sBITX USB Headset Controller: An application that allows you to use USB audio devices like a headset, headphones, or microphone.
+- Update Manager: A utility which makes it easy to update your sBitx software, Pi OS, and Github repository at the click of a button.
 - sBITX Voice Keyer: An application that allows you to record, store, and transmit prerecorded voice messages commonly used for contests, DXing, POTA activations, etc., with the press of a button.
 
 

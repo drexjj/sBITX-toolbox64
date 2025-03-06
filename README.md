@@ -3,7 +3,7 @@
 sBITX Toolbox is a collection of utilities and accessory applications for the sBitx transceiver created by W9JES. This version is specifically designed for the 64bit version of Raspberry Pi OS as provided at  https://github.com/drexjj/sbitx/releases.
 
 
-![toolbox image](toolbox.jpg)
+![toolbox image](toolbox.png)
 
 
 -----
@@ -12,6 +12,7 @@ What does sBITX Toolbox offer?
 
 - sBITX Launcher: A convenient launcher style application that allows you to add, remove, or open the following apps with the click of a button.
 - sBITX Backlight Control: A touchscreen application to control the screen brightness for power conservation and eye comfort.
+- sBITX CW Detector: A zero-beat style indicator to aid in aligning your signal to the freqency of a CW signal.
 - sBITX EZ Data: Application to manage configuration backups.
 - sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
 - V3PowerCal: An application to adjust your power settings per band.

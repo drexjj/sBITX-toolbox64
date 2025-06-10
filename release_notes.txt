@@ -1,4 +1,5 @@
 sBITX Toolbox:
+Veraiob 3.02 - Updated Launcher to 4 columns and dynamic window sizing, updated EZData to include more files for backup/restore operations, revised update manager with console and better error handling. 
 Version 3.0 - Added Screen Resizer, Updated USB headset for lower latency, added volume slider to voice keyer, added update manager, added DroidStar controller, fixed Screen Scaler, added CW Detector, updated launcher.
 Version 2.8 - Added Screen Scaler and V3PowerCal apps. Removed Screen Resizer, updated Manager and editor with new modes.
 Version 2.7 - Changed USB headset app to be more efficient, smaller, and less delay. Added option to Voice Keyer to record via USB headet. Removed old NTP sync app.

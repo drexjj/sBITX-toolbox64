@@ -1,4 +1,5 @@
 sBITX Toolbox:
+Version 3.03 - Fixed GPS lock functionality
 Version 3.03 - Added new utility called GPS Tool which works with USB GPS Receivers. Allows you to update the current maidenhead Gridsquare and time.
 Version 3.02 - Updated Launcher to 4 columns and dynamic window sizing, updated EZData to include more files for backup/restore operations, revised update manager with console and better error handling. 
 Version 3.0 - Added Screen Resizer, Updated USB headset for lower latency, added volume slider to voice keyer, added update manager, added DroidStar controller, fixed Screen Scaler, added CW Detector, updated launcher.

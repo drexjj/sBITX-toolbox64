@@ -1,4 +1,5 @@
 sBITX Toolbox:
+Version 3.07 - Fixed voice keyer loading issue
 Version 3.06 - Updated several apps including EZ Data, Voice keyer, GPS tool, RTC w/GPS sync, and added Style Template Editor
 Version 3.03 - Added new utility called GPS Tool which works with USB GPS Receivers. Allows you to update the current maidenhead Gridsquare and time.
 Version 3.02 - Updated Launcher to 4 columns and dynamic window sizing, updated EZData to include more files for backup/restore operations, revised update manager with console and better error handling. 

@@ -11,24 +11,25 @@ sBITX Toolbox is a collection of utilities and accessory applications for the sB
 What does sBITX Toolbox offer?
 
 - sBITX Launcher: A convenient launcher style application that allows you to add, remove, or open the following apps with the click of a button.
-- sBITX Backlight Control: A touchscreen application to control the screen brightness for power conservation and eye comfort.
-- sBITX CW Detector: A zero-beat style indicator to aid in aligning your signal to the freqency of a CW signal.
-- sBITX EZ Data: Application to manage configuration backups.
-- sBITX Log Exporter: An application that allows logs to be selected and downloaded in ADIF.
+- TS1 Backlight Control: A touchscreen application to control the screen brightness on older sBitx screens for power conservation and eye comfort.
+- TS2 Backlight Control: A touchscreen application to control the screen brightness on newer sBitx screens for power conservation and eye comfort.
+- Band Conditions: An app that displays current band conditions including information such as solar data, MUF, and heat map.
+- GPS Tool: This app provides a visual interface for using an external "puck style" GPS unit with your sBitx. Can update your grid and time with the press of a button.
+- CW Detector: A zero-beat style indicator to aid in aligning your signal to the freqency of a CW signal.
+- EZ Data: Application to simplify and manage configuration backups.
 - V3PowerCal: An application to adjust your power settings per band.
-- sBITX Macro Manager: An application to create, edit, and copy macros using predefined macros.
-- sBITX Manager: An application that can be used to store/recall frequency memories and provide auxiliary control of the transceiver.
-- sBITX Scanner: An application that scans frequency ranges aiding in finding activity.
-- sBITX Screen Resizer: A touchscreen application to change the default window size for better scrolling such as using WSJT-X and fldigi natively on the transceiver.
-- sBITX Screen Scaler: A handy tool for adjusting screen resolution, allowing apps with larger GUI windows to fit entirely on the built-in display.
-- sBITX Time Keeper: A utility that syncs the real-time clock (RTC) module inside your sBitx transceiver to the system clock or accurate time source. Useful for off-network communications and data modes.
-- sBITX USB Headset Controller: An application that allows you to use USB audio devices like a headset, headphones, or microphone.
+- Macro Manager: An application to create, edit, and copy macros using predefined macros.
+- Manager: An application that can be used to store/recall frequency memories and provide auxiliary control of the transceiver.
+- Scanner: An application that scans frequency ranges aiding in finding activity.
+- TS1 Screen Resizer: A touchscreen application designed for older sBitx screens to change the default window size for better scrolling such as using WSJT-X and fldigi natively on the transceiver.
+- Screen Scaler: A handy tool for adjusting screen resolution, allowing apps with larger GUI windows to fit entirely on the built-in display.
+- Time Keeper: A utility that syncs the real-time clock (RTC) module inside your sBitx transceiver to the system clock or accurate time source. Useful for off-network communications and data modes.
 - Update Manager: A utility which makes it easy to update your sBitx software, Pi OS, and Github repository at the click of a button.
-- sBITX Voice Keyer: An application that allows you to record, store, and transmit prerecorded voice messages commonly used for contests, DXing, POTA activations, etc., with the press of a button.
+- Voice Keyer: An application that allows you to record, store, and transmit prerecorded voice messages commonly used for contests, DXing, POTA activations, etc., with the press of a button.
 
 
 
-**Please note that this version of sBITX-toolbox is currently compiled as a 64bit application AND WILL NOT WORK ON THE DEFAULT sBitx as shipped from the manufacturer. We offer a 32bit version for the original as-shipped version [https://github.com/drexjj/sBITX-toolbox](https://github.com/drexjj/sBITX-toolbox).**
+**Please note that this version of sBITX-toolbox is currently compiled as a 64bit application AND WILL NOT WORK ON THE OLDER sBitx hardware as shipped from the manufacturer. We recommend that you update your SD card to the latest software by our volunteer development team at  [Releases](https://github.com/drexjj/sbitx/release)
 
 -----
 
@@ -49,7 +50,7 @@ Or see the instruction guide for installation steps.
 Upgrade
 -----
 
-If you encounter problems upgrading to v2.6, then please run this command from terminal.
+If you encounter problems upgrading to a newer version, then please run this command from terminal.
 
 
 ```console

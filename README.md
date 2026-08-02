@@ -1,4 +1,4 @@
-# sBITX-toolbox64
+# sBITX-Toolbox
 
 sBITX Toolbox is a collection of utilities and accessory applications for the sBitx transceiver created by W9JES. This version is specifically designed for the 64bit version of Raspberry Pi OS as provided at  https://github.com/drexjj/sbitx/releases.
 

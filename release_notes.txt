@@ -1,4 +1,5 @@
 sBITX Toolbox:
+Version 3.10 - OS compatability fixes
 Version 3.09 - Fixed update manager and powercal editor. Cleaned up resources and window size
 Version 3.08 - Fixed missing Style Editor app, rewrote sBitx manager app, Added new band condition app.
 Version 3.07 - Fixed voice keyer loading issue
